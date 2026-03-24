@@ -26,8 +26,8 @@ Move to the next cookie (j++) in all cases.
 ```
 /*
 Program to implement Reverse a String
-Developed by: R.JAYASREE
-Register Number: 212223040074 
+Developed by: MUGIL RAJ S A
+Register Number: 212223220062
 */
 
 import java.util.*;
